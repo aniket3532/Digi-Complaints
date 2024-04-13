@@ -1,0 +1,9 @@
+digi-complaints-public-firebase-adminsdk-jktms-9444e1455f.json
+
+# Virtual environment directories
+venv/
+myenv/
+
+
+# Python bytecode files
+__pycache__/
